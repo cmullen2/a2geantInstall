@@ -1,0 +1,2 @@
+Error in operation <ERROR ARFile_t: fopen failed, FileName: ./data/GP_PPi0_SAID.dat> of class TMCUserGenerator at command line:
+./data/GP_PPi0_SAID.dat FATAL ERROR...exiting AcquRoot
